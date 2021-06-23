@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="listVideo">
+        <item>Bai1</item>
+        <item>Bai2</item>
+        <item>Bai3</item>
+        <item>Bai4</item>
+        <item>Bai5</item>
+        <item>Bai6</item>
+        <item>Bai7</item>
+        <item>Bai8</item>
+        <item>Bai9</item>
+        <item>Bai10</item>
+        <item>Bai11</item>
+    </string-array>
+</resources>
